@@ -6,10 +6,10 @@ import gsap from "gsap";
 
 const About = () => {
   const text = `Passionate about clean design and smooth 
-  interactions — I craft scalable, high-performance 
-interfaces from prototype to production.`;
+        interactions — I craft scalable, high-performance 
+        web applications from prototype to production.`;
 
-  const aboutText = `I’m a Frontend Developer passionate about building fast, intuitive, and visually engaging web experiences. I specialize in crafting pixel-perfect React UIs, responsive layouts, and seamless interactions that delight users and perform flawlessly across devices. I take pride in writing clean, maintainable code and optimizing performance to ensure every project I work on not only looks great but works beautifully. When I’m not coding, I enjoy experimenting with new web technologies, teaching development on Twitch/YouTube, rock climbing, and strumming a few chords while my builds compile.`;
+  const aboutText = `I’m a Developer passionate about building fast, intuitive, and visually engaging web experiences. I specialize in crafting scalable, responsive applications with seamless interactions that delight users across devices. I take pride in writing clean, maintainable code and optimizing performance so every project I work on not only looks great but works beautifully. Outside of coding, I enjoy experimenting with new web technologies, teaching development on Twitch/YouTube, rock climbing, and strumming a few chords while my builds compile.`;
 
   const imgRef = useRef(null);
 

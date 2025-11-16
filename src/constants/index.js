@@ -43,15 +43,15 @@ export const servicesData = [
 export const projects = [
   {
     id: 1,
-    name: "Youtube clone",
+    name: "Ai ChatBot",
     description:
-      "A React.js YouTube clone that fetches real-time video data via the YouTube API, featuring search, playback, and a responsive, user-friendly interface.",
-    href: "http://youtubytgt.netlify.app",
-    image: "images/mobile-accessories-store.jpg",
-    bgImage: "images/blanket.jpg",
+      "An AI chatbot built with React.js that leverages the Gemini API for real-time conversational experiences, featuring a responsive, user-friendly interface and seamless interactions.",
+    href: "https://auth-1.netlify.app/",
+    image: "images/authentication.png",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Tailwind CSS" },
+      { id: 3, name: "API" },
     ],
   },
   {
@@ -60,10 +60,10 @@ export const projects = [
     description:
       "A React.js movie app that lets users browse, search, and explore movies with a clean, responsive, and user-friendly interface.",
     href: "https://movie-we.netlify.app",
-    image: "images/plant-shop.jpg",
-    bgImage: "images/curtains.jpg",
+    image: "images/movie-app.png",
     frameworks: [
-      { id: 1, name: "React" }
+      { id: 1, name: "React" },
+      { id: 2, name: "Tailwind css" }
     ],
   },
   {
@@ -73,7 +73,6 @@ export const projects = [
       "An e-commerce platform for Apple products and accessories with deals and category filtering.",
     href: "https://github.com/",
     image: "images/apple-tech-store.jpg",
-    bgImage: "images/map.jpg",
     frameworks: [
       { id: 1, name: "Blazor" },
       { id: 2, name: "ASP.NET Core" },
@@ -88,7 +87,6 @@ export const projects = [
       "A multi-category online shop featuring electronics, home appliances, and gaming gear with special offers.",
     href: "https://github.com/",
     image: "images/electronics-store.jpg",
-    bgImage: "images/poster.jpg",
     frameworks: [
       { id: 1, name: "Vue.js" },
       { id: 2, name: "Laravel" },
@@ -103,7 +101,6 @@ export const projects = [
       "A curated collection of designer home decor items, including furniture and artisan vases.",
     href: "https://github.com/",
     image: "images/home-decor-store.jpg",
-    bgImage: "images/table.jpg",
     frameworks: [
       { id: 1, name: "Angular" },
       { id: 2, name: "Firebase" },
@@ -118,7 +115,6 @@ export const projects = [
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
     href: "https://github.com/",
     image: "images/game-store.jpg",
-    bgImage: "images/curtains.jpg",
     frameworks: [
       { id: 1, name: "Svelte" },
       { id: 2, name: "Node.js" },

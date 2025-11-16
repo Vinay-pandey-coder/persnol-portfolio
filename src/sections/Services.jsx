@@ -7,8 +7,8 @@ import gsap from "gsap";
 
 const Services = () => {
   const text = `I build fast, secure, and high-performance 
-  front-end experiences with smooth 
-UX that drive growth — not headaches.`;
+        web experiences with smooth 
+        UX that drive growth — not headaches.`;
   const isDesktop = useMediaQuery({ minWidth: "48rem" });
   const serviceRef = useRef([]);
 

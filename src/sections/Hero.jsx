@@ -6,9 +6,8 @@ import AnimatedHeaderSection from "../component/AnimatedHeaderSection";
 
 const Hero = () => {
   const isMobile = useMediaQuery({ maxWidth: 853 });
-  const text = `I’m a Frontend Developer specializing in creating fast,
-                 visually appealing, 
-            and user-friendly websites.`;
+  const text = `I’m a Developer building fast, visually appealing,
+   and user-friendly web applications.`;
 
   return (
     <>
