@@ -47,7 +47,7 @@ export const projects = [
     description:
       "An AI chatbot built with React.js that leverages the Gemini API for real-time conversational experiences, featuring a responsive, user-friendly interface and seamless interactions.",
     href: "https://auth-1.netlify.app/",
-    image: "images/authentication.png",
+    image: "images/aichatbot.png",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Tailwind CSS" },
