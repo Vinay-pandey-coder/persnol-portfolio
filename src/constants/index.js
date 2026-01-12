@@ -71,7 +71,7 @@ export const projects = [
     name: "Job Portal Website",
     description:
       "This is a Job Portal Website",
-    href: "job-port1.netlify.app",
+    href: "https://job-port1.netlify.app",
     image: "images/jobPortal.png",
     frameworks: [
       { id: 1, name: "React.js" },
