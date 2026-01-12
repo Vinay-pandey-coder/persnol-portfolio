@@ -68,16 +68,16 @@ export const projects = [
   },
   {
     id: 3,
-    name: "Apple Tech Marketplace",
+    name: "Job Portal Website",
     description:
-      "An e-commerce platform for Apple products and accessories with deals and category filtering.",
-    href: "https://github.com/",
-    image: "images/apple-tech-store.jpg",
+      "This is a Job Portal Website",
+    href: "job-port1.netlify.app",
+    image: "images/jobPortal.png",
     frameworks: [
-      { id: 1, name: "Blazor" },
-      { id: 2, name: "ASP.NET Core" },
-      { id: 3, name: "SQL Server" },
-      { id: 4, name: "Bootstrap" },
+      { id: 1, name: "React.js" },
+      { id: 2, name: "Node.js" },
+      { id: 3, name: "Express.js" },
+      { id: 4, name: "MongoDB" },
     ],
   },
   {
